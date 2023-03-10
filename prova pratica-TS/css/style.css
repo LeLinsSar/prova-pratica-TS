@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    background-color: bisque;
+}
+.container{
+    font-size: 30px;
+}
+.imagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+.descobrimento{
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+}
+.desc{
+    text-align: center;
+    padding: 15px;
+}
+.imagem2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+.invenção{
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+}
+.inv{
+    text-align: center;
+    padding: 15px;
+}
+.navbar{
+    display: flex;
+    padding: 9px;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(45deg, rgb(127, 79, 190), rgb(79, 42, 165));
+    color: #08cf8d;
+    padding: 20px;
+}
+.ela{
+    text-align: center;
+    padding: 15px;
+}
+.lamarr{
+    text-align: center;
+    padding: 15px;
+    font-size: 20px; 
+}
+.imagem3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px; 
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+    padding: 15px;
+    color: bisque;
+}
+footer{
+    background: linear-gradient(45deg, rgb(127, 79, 190), rgb(79, 42, 165)) ;
+    color: bisque;
+    text-align: center;
+    padding: 15px;
+}
